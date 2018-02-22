@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <script src="js/capture.js"></script>
+  <script src="js/ml5.min.js"></script>
+  <title>ML5-KNN-Videos</title>
+</head>
+
+<style>
+  body { font-family: "Arial", open-sans; text-align: center;}
+  #tranning { display: none; }
+</style>
+
+<body>
+
+  <h3>ML5 Prerecorded Videos (KNN)</h3>
+  <p>Try covering your webcam with your hands or placing a white paper</p>
+
+  <!-- Videos Recorded for Training -->
+  <video id="videoTraining" muted autoplay loop crossorigin="anonymous" width="227" height="227" style="display:none" ></video>
+  <!-- Ml5 Input video for prediction -->
+  <video id="videoHidden" muted autoplay crossorigin="anonymous" width="227" height="227" style="display:none" ></video>
+  <!-- UX Video -->
+	<video id="videoLive" muted autoplay crossorigin="anonymous" ></video>
+  <!-- Prediction -->
+  <p id="prediction">Loading</p>
+
+  <script src="js/script.js"></script>
+
+</body>
+</html>
