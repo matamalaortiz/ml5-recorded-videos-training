@@ -8,7 +8,7 @@ ML5.js is a high level JavaScript library for machine learning. The main idea of
 
 ### HOW TO USE
 
-• Clone the Repo.
+• Clone.
 
 • Go to `./videos` and add your videos.
 
