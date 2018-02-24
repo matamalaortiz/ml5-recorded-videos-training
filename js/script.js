@@ -54,9 +54,9 @@ function loopVideos(){
                 let state = data.classIndex;
 
                 if(state === 1){
-                  prediction.innerText = `You are covering your webcam with your hands`;
+                  prediction.innerText = `Covering the webcam with your hands.`;
                 } else if (state === 2) {
-                  prediction.innerText = `You are covering your webcam with a white paper`;
+                  prediction.innerText = `Covering the webcam with a white sheet of paper.`;
                 } else {
                   prediction.innerText = `You are not covering your camera`;
                 }
