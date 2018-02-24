@@ -1,6 +1,10 @@
-# A ~~ very simple example ~~ trick to train and classify frames from ~~a live webcam stream~~ recorded videos using ML5.js the KNN Image Classifier
+# A ~~very simple example~~ trick to train and classify frames from ~~a live webcam stream~~ recorded videos using ML5.js the KNN Image Classifier
 
-[ML5.js](https://itpnyu.github.io/ml5/docs/knn-image-example.html)
+### BUILT WITH ML5
+
+ML5.js is a high level JavaScript library for machine learning. The main idea of this project is to further reduce the barriers between lower level machine learning and creative outputs using JavaScript.
+
+[ML5 Website](https://itpnyu.github.io/ml5/docs/knn-image-example.html)
 
 ### HOW TO USE
 
