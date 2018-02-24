@@ -1,4 +1,4 @@
-# A ~~very simple example~~ trick to train and classify frames from ~~a live webcam stream~~ recorded videos using ML5.js the KNN Image Classifier
+# A ~~very simple example~~ trick to train and classify frames from ~~a live webcam stream~~ recorded videos using ML5.js the KNN Image Classifier.
 
 ### BUILT WITH ML5
 
