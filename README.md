@@ -13,7 +13,7 @@ ML5.js is a high level JavaScript library for machine learning. The main idea of
 
 • Clone or Download .zip.
 
-• `$ cd .../ml5-knn-videos`
+• `$ cd ~/Path/ml5-knn-videos`
 
 • Go to `./videos` and add your videos.
 
