@@ -9,7 +9,7 @@ ML5.js is a high level JavaScript library for machine learning. The main idea of
 ![Demo](img/demo.gif)
 
 
-### HOW TO USE
+### HOW TO USE THIS
 
 • Clone or Download .zip.
 
@@ -26,7 +26,7 @@ let videosArray = ["./videos/video1.mp4", "./videos/video2.mp4", "./videos/video
 
 • Run the web server. Ej.`$ live-server` For localhost [Live-Server](https://www.npmjs.com/package/live-server)
 
-• Open localhost:PORT in your browser. 
+• Open localhost:PORT in your browser.
 
 • Have fun.
 
