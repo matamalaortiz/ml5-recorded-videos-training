@@ -6,9 +6,14 @@ ML5.js is a high level JavaScript library for machine learning. The main idea of
 
 [ML5 Website](https://itpnyu.github.io/ml5/docs/knn-image-example.html)
 
+![Demo](img/demo.gif)
+
+
 ### HOW TO USE
 
-• Clone.
+• Clone or Download .zip.
+
+• `$ cd .../ml5-knn-videos`
 
 • Go to `./videos` and add your videos.
 
@@ -16,9 +21,12 @@ ML5.js is a high level JavaScript library for machine learning. The main idea of
 
 ```
 let videosArray = ["./videos/video1.mp4", "./videos/video2.mp4", "./videos/video3.mp4"];
+
 ```
 
-• Run the web server.
+• Run the web server. Ej.`$ live-server` For localhost [Live-Server](https://www.npmjs.com/package/live-server)
+
+• Open localhost:PORT in your browser. 
 
 • Have fun.
 
